@@ -1,0 +1,15 @@
+bundles:
+{
+    file:
+    {
+        [r] libComponent_swiQmi.so                          /lib/
+    }
+}
+
+requires:
+{
+    lib:
+    {
+        libComponent_swiQmi.so
+    }
+}
